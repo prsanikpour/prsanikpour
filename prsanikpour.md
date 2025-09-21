@@ -1,30 +1,17 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-<div align="center">
+<!-- Row 1 -->
+<p style="display:flex; justify-content:center; gap:20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=prsanikpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prsanikpour&theme=dark&hide_border=false" height="160" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="420" height="180">
-      <img src="https://github-readme-stats.vercel.app/api?username=prsanikpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="max-width:100%; max-height:100%;" />
-    </td>
-    <td align="center" width="420" height="180">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=prsanikpour&theme=dark&hide_border=false" style="max-width:100%; max-height:100%;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="420" height="180">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsanikpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width:100%; max-height:100%;" />
-    </td>
-    <td align="center" width="420" height="180">
-      <img src="https://github-contributor-stats.vercel.app/api?username=prsanikpour&limit=5&theme=dark&combine_all_yearly_contributions=true" style="max-width:100%; max-height:100%;" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
+<!-- Row 2 -->
+<p style="display:flex; justify-content:center; gap:20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsanikpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=prsanikpour&limit=5&theme=dark&combine_all_yearly_contributions=true" height="160" />
+</p>
 
 ---
 
