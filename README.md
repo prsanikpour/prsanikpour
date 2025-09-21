@@ -9,8 +9,8 @@
 
 <!-- Row 2 -->
 <p style="display:flex; justify-content:center; gap:20px;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=prsanikpour&limit=5&theme=dark&combine_all_yearly_contributions=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsanikpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=prsanikpour&limit=5&theme=dark&combine_all_yearly_contributions=true" height="160" />
 </p>
 
 ---
