@@ -27,10 +27,20 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center" style="display:flex; justify-content:center; gap:20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=prsanikpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prsanikpour&theme=dark&hide_border=false" height="160" />
-</p>
+<div align="center">
+
+  <!-- Row 1 -->
+  <p style="display:flex; justify-content:center; gap:20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=prsanikpour&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=prsanikpour&theme=dark&hide_border=false" height="160" />
+  </p>
+
+  <!-- Row 2 -->
+  <p>
+    <img src="https://github-contributor-stats.vercel.app/api?username=prsanikpour&limit=5&theme=dark&combine_all_yearly_contributions=true" height="160" />
+  </p>
+
+</div>
 
 ---
 
