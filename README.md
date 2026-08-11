@@ -1,10 +1,3 @@
-Here is a polished, professional version of your GitHub README.
-
-While your original terminal theme is fun and shows off your passion for Linux, recruiters and engineering managers usually prefer a clean, easy-to-read layout that allows them to quickly scan your skills and achievements. This version prioritizes readability, highlights your most complex projects (like the OCR system), and presents your tech stack in a corporate-friendly format.
-
-You can copy and paste the Markdown code below directly into your `README.md` file:
-
-```markdown
 <div align="center">
   <h1>Hi, I'm Parsa Nikpour 👋</h1>
   <h3>Fullstack Developer | Go, React & Machine Learning Enthusiast</h3>
@@ -93,5 +86,3 @@ I am a Fullstack Developer based in Iran 🇮🇷 with a strong focus on buildin
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prsanikpour&style=flat-square&color=22C55E&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
-```
