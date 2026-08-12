@@ -1,5 +1,5 @@
 # Parsa Nikpour
-**Fullstack Software Engineer | Go, React, Docker**
+**Fullstack Software Engineer | Go, React, PostgreSQL, Docker**
 
 📧 [prsanikpour1382@gmail.com](mailto:prsanikpour1382@gmail.com) | 🐙 [GitHub](https://github.com/prsanikpour) | 💼 [LinkedIn](https://linkedin.com/in/your-profile-here) | 🐦 [Twitter/X](https://twitter.com/your-handle-here)
 
