@@ -1,21 +1,7 @@
 # Parsa Nikpour
 **Fullstack Software Engineer | Go, React, PostgreSQL, Docker**
 
-<p>
-  <a href="mailto:prsanikpour1382@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="24" height="24" alt="Email" style="margin-right: 10px;" />
-  </a>
-  <a href="https://github.com/prsanikpour" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="24" height="24" alt="GitHub" style="margin-right: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile-here" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" height="24" alt="LinkedIn" style="margin-right: 10px;" />
-  </a>
-  <a href="https://twitter.com/your-handle-here" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="24" height="24" alt="X" />
-  </a>
-</p>
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prsanikpour1382@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prsanikpour) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile-here) | [![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/your-handle-here)
 > **I design and ship production systems end-to-end.** I am a Go-first fullstack developer specializing in scalable REST APIs, robust React frontends, and the Dockerized infrastructure that orchestrates them. I thrive in agile environments where I can take ownership of the entire deployment pipeline and deliver high-quality, maintainable code. Open to remote opportunities worldwide.
 
 ---
